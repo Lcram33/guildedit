@@ -1,0 +1,35 @@
+{
+    "Admin": {
+        "ID compte": "Pseudo (pour s'y retrouver)"
+    }, 
+
+    "Token": "le token du bot", 
+    "GuildCreator": 012345678910111213, 
+
+    "Database": {
+        "host": "localhost", 
+        "password": "le mot de passe", 
+        "user": "root"
+    }, 
+
+    "supportGuild": {
+        "logsChannel": 012345678910111213, 
+        "ID": 012345678910111213
+    },
+
+    "Staff": {
+        "ID compte": "Pseudo (pour s'y retrouver)"
+    },
+
+    "linkChannel": 012345678910111213,
+
+    "links": { 
+        "qrcode": "lien pour une image de qr code", 
+        "botInvite": "lien pour ajouter le bot", 
+        "support": "invitation du serveur de support"
+    },
+    
+    "emojis": {
+        "banhammer": 012345678910111213
+    }
+}
