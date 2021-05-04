@@ -7,4 +7,4 @@ Icône du bot (libre d'utilisation, tout le crédit revient à son auteur) : htt
 
 Pour tout problème de confidentialité (données oubliées dans le code ou dans un fichier du projet), ou pour toute question/suggestion, me contacter
 Discord : Lcram33#7313
-Email : contact.guildedit@gmail.com
+Email : lcram33@pm.me
